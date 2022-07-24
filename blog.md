@@ -3,9 +3,9 @@ layout: default
 title: "Blog"
 ---
 
-<body>
-<h1>Here you can find some more or less interesting thoughts</h1>
-</body>
+
+## Here you can find some more or less interesting thoughts
+
   
 {% if site.show_excerpts %}
   {% include home.html %}

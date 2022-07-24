@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "MB_CV.pdf", title: "CV"} 
-  - {file: "index.html", title: Home, icon: home}
-  - {file: "README.md", title: About me, icom: adress-cart}
+  - {file: "index.html", title: Blog}
+  - {file: "README.md", title: About me}
+  - {file: "./MB_CV.pdf", title: "CV"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:michalbortkiewicz8@gmail.com"}
-  - {title: Github, icon: github, url: "https://michalbortkiewicz.github.io/"}
+  - {title: Github, icon: github, url: "https://github.com/MichalBortkiewicz"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/m_bortkiewicz"}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 

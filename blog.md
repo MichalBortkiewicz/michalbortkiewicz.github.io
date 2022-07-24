@@ -4,7 +4,7 @@ title: "Blog"
 ---
 
 
-## Here you can find some more or less interesting thoughts
+Here you can find some more or less interesting thoughts
 
   
 {% if site.show_excerpts %}

@@ -7,7 +7,7 @@ layout: page
 # Michał Bortkiewicz
 
 <p>  
-<img src="edit_1.jpg" alt="Smiley face" style="float:right" width="190">
+<img src="./edit_1.jpg" alt="Smiley face" style="float:right" width="190">
 I'm a PhD student in deep learning researching continual learning at Warsaw University of Technology. I recently started working as a deep learning engineer at Samsung Research on audio intelligence projects, including sound recognition. Previously, I have worked on computer vision applications used in Scope Fluidics for medical diagnostics and on classic machine learning solutions for aircraft logistics in Airspace Intelligence.
 Even though I started my academic career with exams at the Architecture faculty, I eventually finished with a master’s in Data Science. In the meantime, I studied a few fields, including Aerospace Engineering, Informatics, Automatics and Robotics (B.Eng.), and Data Science (M.Sc.Eng.). This academic journey helped me determine my interests and drive toward AI. Thus I began my PhD.
 

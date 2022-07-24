@@ -15,4 +15,4 @@ I read biographies, sci-fi, and scientific books on various topics, especially a
 
 
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+![screenshot](edit_1.jpg)
